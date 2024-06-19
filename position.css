@@ -1,0 +1,36 @@
+div{
+    width: 500px;
+    height: 300px;
+    display: inline;
+    background-color: blueviolet;
+}
+#one{
+    background-color: aqua;
+    position: static;
+    
+}
+#two{
+    background-color: blue;
+    position: relative;
+    
+
+}
+#three{
+    background-color: yellow;
+    position:fixed;
+    right: 20px;
+}
+#four{
+    background-color: brown;
+    position: sticky; 
+    color: azure;
+    bottom: 20px;
+
+
+}
+#five
+{
+    background-color: paleturquoise;
+    position: fixed;
+    bottom: 0;
+}
